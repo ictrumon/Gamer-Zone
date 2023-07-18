@@ -322,8 +322,14 @@ nav{
         padding: 0;
     }
     .banner-img{
-        width: 350px;
+        width: 300px;
         margin-top: 20px;
+    }
+    .games-title{
+        font-size: 25px;
+    }
+    .games-description{
+        font-size: 16px;
     }
     .games-funny-section{
         grid-template-columns: 1fr;
