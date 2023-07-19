@@ -432,7 +432,8 @@ footer{
         text-align: center;
     }
     .box-1{
-       grid-template-columns: repeat(3, 1fr);
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
     }
     footer{
         padding: 10px;
