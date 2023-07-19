@@ -434,6 +434,11 @@ footer{
     .box-1{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
+        padding: 0;
+    }
+    .icon-box{
+        width: 150px;
+        height: 100px;
     }
     footer{
         padding: 10px;
